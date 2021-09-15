@@ -3,4 +3,5 @@ apt update && \
 apt upgrade -y && \
 apt dist-upgrade -y && \
 apt autoremove -y && \
-apt install -y update-manager-core
+apt install -y update-manager-core && \
+do-release-upgrade -f DistUpgradeViewNonInteractive
