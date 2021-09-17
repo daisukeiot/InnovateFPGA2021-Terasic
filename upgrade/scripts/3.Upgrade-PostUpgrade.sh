@@ -1,6 +1,7 @@
 OVERLAY1='echo overlay.dtbo'
 OVERLAY2='modprobe altvipfb'
 
+apt autoremove -y && \
 mkdir ~/tmp && \
 cd ~/tmp && \
 cp /overlay/fpgaoverlay.sh /overlay/fpgaoverlay.sh.org && \
