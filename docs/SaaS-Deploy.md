@@ -19,7 +19,7 @@ Click **Deploy to Azure** button below to deploy IoT Central Application
 > [!NOTE]  
 > TBD Update link to ARM template after converting the repo to public.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdaisukeiot%2FInnovateFPGA2021%2Fmain%2Fazuredeployiotc.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fterasic%2FInnovateFPGA2021%2Fmain%2Fdeploy%2Fazuredeployiotc.json)
 
 > [!TIP]  
 > Right click the button below and select **Open link in new tab** or **Open lin in new window**
