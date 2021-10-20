@@ -39,7 +39,7 @@ Click **Deploy to Azure** button below.  The button will take you to Azure Porta
 > [!TIP]  
 > <https://portal.azure.com> is called **Azure Portal** which is a web-based, unified GUI tool where you can monitor and manage Azure services.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Fterasic%2FInnovateFPGA2021%2Fmain%2Fdeploy%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fterasic%2FInnovateFPGA2021%2Fmain%2Fdeploy%2Fazuredeploy.json)
 
 > [!TIP]  
 > Right click the button below and select **Open link in new tab** or **Open link in new window**
